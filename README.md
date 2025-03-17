@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 👨‍💻 All of my projects are available [@MegaleXY](github.com/MegaleXY)
+- 👨‍💻 All of my projects are available [@MegaleXY]([github.com/MegaleXY](https://github.com/MegaleXY?tab=repositories))
 
 - - 💬 Ask me about **System Designs 😆**
 
