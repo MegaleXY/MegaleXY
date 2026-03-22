@@ -17,11 +17,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megalexy&label=Profile%20views&color=0e75b6&style=flat" alt="megalexy" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://megalexy.vercel.app/](https://megalexy.vercel.app/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **html, css, scss, javascript, reactjs**
 
-- 📫 How to reach me **megalexyceo@gmail.com**
+- 📫 How to reach me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
